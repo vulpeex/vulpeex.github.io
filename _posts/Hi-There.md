@@ -1,0 +1,3 @@
+# So, a bit about me and this blog 
+
+ Lately, I've found myself increasingly drawn to the idea of having my own tiny niche on the internet to amplify my voice. After dabbling with all the charming, custom-made Hugo and Jekyll themes—which swiftly became overwhelmingly disappointing tending to my pefectionist self — I've finally decided to embrace simplicity to actually set things forth. Unlike all those podcast aspirations that have taken a backseat for some time now. Here's to hoping I'll breathe life into them someday, with the same spontaneity that sparked this blog.
