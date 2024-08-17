@@ -1,1 +1,1 @@
-musings and spewings
+Vulpeex's personal blog 
