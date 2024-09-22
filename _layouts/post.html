@@ -26,5 +26,19 @@ layout: default
     {% include navlinks.html %}
   </div>
 
+  <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = '{{ page.url }}';
+        this.page.identifier = '{{ page.url }}';
+    };
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://vulpeex-github-io.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
