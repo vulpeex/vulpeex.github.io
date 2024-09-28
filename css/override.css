@@ -94,14 +94,14 @@ hr {
 /*Typography*/
 
 body {
-  font-family: 'Bradley Hand ITC', serif;
+  font-family: 'Lora', serif;
   font-size: 16px;
   line-height: 1.6;
   color: #333;
 }
 
 h1, h2, h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Halant', sans-serif;
   color: #222;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -135,5 +135,22 @@ a:hover {
 }
 
 .post-meta {
+  color: #95a5a6;
+}
+
+/*Navigation Enhancements*/
+.post_navi-item {
+  padding: 10px;
+  font-size: 1em;
+  color: #3498db;
+}
+
+.post_navi-item:hover {
+  background-color: #ecf0f1;
+  border-radius: 5px;
+}
+
+.post_navi-arrow {
+  font-size: 1.8em;
   color: #95a5a6;
 }
