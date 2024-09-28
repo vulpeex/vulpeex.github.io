@@ -30,6 +30,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+gems:
+  - jekyll-feed
+
+
 titles_from_headings:
   strip_title: true
   collections: true
@@ -39,4 +43,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Other
+      tags: Others
