@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Labyrinth
 
 Donning my Sisyphus cape, I'm writing it up with a dread, for it is, afterall, a personal blog. Aren't there days where it all feels a bit too personal. For me precicely, It's also when you are a little more grateful and this gliterring gratefulness stings - alluring yet illusive, witholding a desolation that lingers beneath. Spilled over, one aches for fleeting moments of respite with the deep sighs and paced walks only to realise the futility trying to navigate through labyrinth of my own thoughts. To be honest, I wish I myself had a walkthrough for navigating through such dettering paranoia.
