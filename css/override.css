@@ -96,15 +96,16 @@ hr {
 body {
   font-family: 'Lora', serif;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.4;
   color: #333;
 }
 
 h1, h2, h3 {
-  font-family: 'Halant', sans-serif;
+  font-family: 'Halant', serif;
   color: #222;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1.1px;
+  font-size: 16px;
 }
 
 /* Color schemes - sample*/
@@ -123,7 +124,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Post Header */
+/* Post Header 
 .post-header {
   background-color: #fff;
   padding: 20px;
@@ -136,7 +137,7 @@ a:hover {
 
 .post-meta {
   color: #95a5a6;
-}
+}*/
 
 /*Navigation Enhancements*/
 .post_navi-item {
