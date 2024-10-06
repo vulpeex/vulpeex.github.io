@@ -8,8 +8,11 @@
       <img src="/assets/image-cover.jpg" alt="Image description" />
     </div>
     <div class="index-description">
+      <div class = "true-description">Just Your average cheeky, witty cat-cultist fumbling through indie-rock and foreign toungues.</div>
       <p>
-      Your average cheeky, witty cat-cultist fumbling through indie-rock and foreign toungues.<br>
+      I am a final year student at IIT Delhi, carving out her tiny niche on the internet. 
+      <br><br>
+      Here, you’ll find musings from my personal journey—peppered with rants, reflections, incisive reviews, and considered(probably sordid) stances.
       </p>
     </div>
   </div>
