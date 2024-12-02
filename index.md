@@ -8,7 +8,7 @@
       <img src="/assets/image-cover.jpg" alt="Image description" />
     </div>
     <div class="index-description">
-      <div class = "true-description">Just Your average cheeky, witty cat-cultist fumbling through indie-rock and foreign toungues.</div>
+      <div class = "true-description">'Your average cheeky, witty cat-cultist fumbling through indie-rock and foreign toungues.'</div>
       <p>
       I am a final year student at IIT Delhi, carving out her tiny niche on the internet. 
       <br><br>
