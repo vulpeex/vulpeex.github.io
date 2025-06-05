@@ -1,12 +1,12 @@
 # An Odyssey to the Multilingual Ones
 
 ## Prologue
-Imagine, dear reader, a mental landscape where languages collide, merge, and dance—a cerebral theatre where French *merci* might whisper to Hindi *dhanyavaad*, while Bengali *dhonnobad* pirouettes in the wings. Our journey traverses the intricate pathways of multilingual cognition, where words are not mere sounds, but living, breathing entities.
+Imagine, dear reader, a landscape where languages collide, merge, and dance—a cerebral theatre where French *merci* might whisper to Hindi *dhanyavaad*, while Bengali *dhonnobad* pirouettes in the wings. We traverse the intricate pathways of multilingual cognition, where words are not mere sounds, but some animate entities.
 Ah well, here's one short read on parts of my interests in linguistics, begining with a basic one for the introductions and me trying a different form of writing. 
 
 ## The Curious Confluence of Linguistic Activation
 
-Consider the fascinating experiment conducted by Dr. Ananya Chatterjee, exploring the linguistic labyrinths of trilingual speakers fluent in Bengali, Hindi, and English. Participants were presented with a series of images and asked to name them rapidly, their brains monitored by an intricate array of electrodes.
+Consider the experiment conducted, exploring the linguistic labyrinths of trilingual speakers fluent in Bengali, Hindi, and English. Participants were presented with a series of images and asked to name them rapidly, their brains monitored by an array of electrodes.
 
 **The Discoveries:** When shown an image of a *cup*, the brain would simultaneously activate:
 - Bengali: *cupa* (কাপ)
