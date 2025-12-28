@@ -1,0 +1,80 @@
+/* Flexbox Layout for Index Page */
+.index-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  margin: 0px 0;
+  padding: 10px;
+}
+
+.index-image {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.index-image img {
+  max-width: 80%; /* Adjusted the image width for mobile view */
+  height: auto;
+}
+
+.index-description {
+  text-align: left;
+  max-width: 900px;
+  margin-left: 20px;
+}
+
+.index-posts-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.index-post-item {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+
+.index-post-item .post-date {
+  color: #95a5a6;
+  font-size: 0.9em;
+  margin-right: 10px;
+}
+
+.index-post-item .post-title {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.index-post-item .post-title:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+.true-description {
+  margin: 10px;
+  margin-left: 0px;
+  padding: 10px; 
+  padding-right: 0px;
+  align-items: center;
+  font-size: 14px;
+}
+
+/* Optional Media Queries for Responsive Design */
+@media (min-width: 768px) {
+  .index-content-wrapper {
+      flex-direction: row;
+  }
+
+  .index-image {
+      flex: 1 1 30%; /* Reduce width of the image column */
+      margin-right: 20px;
+  }
+
+  .index-description {
+      flex: 1 1 70%; /* Increase width of the description column */
+  }
+
+  .index-image img {
+      max-width: 100%; /* Reset image width for larger screens */
+  }
+}
